@@ -22,7 +22,7 @@ public class AbstrctCar {
 
  }void runcar(){
 	 for (fuel = 0;fuel<=maxfuel;fuel--) {
-		 if()
+		
 	 }
  }
 }
